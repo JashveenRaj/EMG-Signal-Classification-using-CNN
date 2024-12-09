@@ -81,11 +81,7 @@ The model demonstrates strong performance in classifying gestures from unseen su
    pip install -r requirements.txt
    ```
 
-3. Run the Jupyter Notebook (or) Python Script:
-
-   ```bash
-   jupyter notebook EMG_Classification_CNN.ipynb
-   ```
+3. Run the  Python Script:
 
    ```bash
    python EMG_Classification_CNN.py
