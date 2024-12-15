@@ -66,6 +66,20 @@ The dataset is split by subjects to evaluate the model’s generalization to uns
 
 The model demonstrates strong performance in classifying gestures from unseen subjects, showcasing its generalization capabilities. Specific performance metrics and results can be found in the notebook.
 
+### Sample Output Graphs
+
+#### Training and Validation Loss Over Epochs:
+
+![Training Loss](C:\Users\Jash Progs\Google - AI for Impact\EMG-Signal-Classification\outputs\Screenshot 2024-12-15 212532.png)
+
+#### Confusion Matrix:
+
+![Confusion Matrix](C:\Users\Jash Progs\Google - AI for Impact\EMG-Signal-Classification\outputs\Screenshot 2024-12-15 212538.png)
+
+#### Classification Report:
+
+![Classification Report](C:\Users\Jash Progs\Google - AI for Impact\EMG-Signal-Classification\outputs\Screenshot 2024-12-15 212548.png)
+
 ## How to Use
 
 1. Clone the repository:
@@ -96,3 +110,4 @@ The model demonstrates strong performance in classifying gestures from unseen su
 ## Acknowledgments
 
 This project uses the EMG Data for Gestures dataset provided by the UCI Machine Learning Repository. Special thanks to the organizers of the Google AI for Impact Hackathon for providing the opportunity to work on this challenge.
+
